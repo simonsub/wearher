@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/weather/static/css/main.5db5a579.chunk.css",
+    "main.js": "/weather/static/js/main.df7514b9.chunk.js",
+    "main.js.map": "/weather/static/js/main.df7514b9.chunk.js.map",
+    "runtime-main.js": "/weather/static/js/runtime-main.eba7de3f.js",
+    "runtime-main.js.map": "/weather/static/js/runtime-main.eba7de3f.js.map",
+    "static/js/2.5871177d.chunk.js": "/weather/static/js/2.5871177d.chunk.js",
+    "static/js/2.5871177d.chunk.js.map": "/weather/static/js/2.5871177d.chunk.js.map",
+    "index.html": "/weather/index.html",
+    "precache-manifest.d871a16da12c17096fa180e53edec1a7.js": "/weather/precache-manifest.d871a16da12c17096fa180e53edec1a7.js",
+    "service-worker.js": "/weather/service-worker.js",
+    "static/css/main.5db5a579.chunk.css.map": "/weather/static/css/main.5db5a579.chunk.css.map",
+    "static/js/2.5871177d.chunk.js.LICENSE.txt": "/weather/static/js/2.5871177d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/weather/static/media/bg.f03b5cf7.png",
+    "static/media/geoloc.svg": "/weather/static/media/geoloc.634ee2de.svg",
+    "static/media/humidity.svg": "/weather/static/media/humidity.417c71ed.svg",
+    "static/media/pressure.svg": "/weather/static/media/pressure.0cd81fbf.svg",
+    "static/media/search.ico": "/weather/static/media/search.66b40526.ico",
+    "static/media/wind_speed.svg": "/weather/static/media/wind_speed.01467f7c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eba7de3f.js",
+    "static/js/2.5871177d.chunk.js",
+    "static/css/main.5db5a579.chunk.css",
+    "static/js/main.df7514b9.chunk.js"
+  ]
+}
